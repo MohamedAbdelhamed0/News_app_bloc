@@ -1,4 +1,5 @@
 # NewS_app_bloc
+ <a href="https://wakatime.com/badge/user/a6fde574-3cbb-4d4d-a769-19a48e2aaf9e/project/52af7c82-7835-4160-bbbd-26deb0a4d3cb"><img src="https://wakatime.com/badge/user/a6fde574-3cbb-4d4d-a769-19a48e2aaf9e/project/52af7c82-7835-4160-bbbd-26deb0a4d3cb.svg"></a>
 
 A new Flutter project.
 
