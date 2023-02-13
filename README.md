@@ -1,10 +1,8 @@
-Introduction
-The project under consideration is a mobile application created using Flutter, an open-source framework for building high-performance, high-fidelity, apps for iOS and Android. This app is a news aggregator that retrieves news articles from a RESTful API and displays them in a list. The project makes use of the BLoC (Business Logic Component) architecture pattern, which is a popular approach for managing state and data flow in Flutter applications.
+
 
 <html>
   <head>
-    <title>News Aggregator App in Flutter</title>
-  </head>
+   
   <body>
     <h1>News Aggregator App in Flutter</h1>
     <p>The project under consideration is a mobile application created using Flutter, an open-source framework for building high-performance, high-fidelity, apps for iOS and Android. This app is a news aggregator that retrieves news articles from a RESTful API and displays them in a list. The project makes use of the BLoC (Business Logic Component) architecture pattern, which is a popular approach for managing state and data flow in Flutter applications.</p>
